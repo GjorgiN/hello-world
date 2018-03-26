@@ -1,2 +1,4 @@
 # hello-world
-Tutorial repository
+
+Hi all!
+Trying to learn something new.
